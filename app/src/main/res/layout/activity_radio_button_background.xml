@@ -1,0 +1,9 @@
+<RadioButton android:id="@+id/radioButtonOption1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:layout_marginBottom="8dp"
+    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+    tools:text="Option 1"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" />
